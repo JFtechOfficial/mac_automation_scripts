@@ -8,10 +8,14 @@
 ---
 
 ## Low Power Mode 🔋
-[This folder](https://github.com/JFtechOfficial/mac-automation-scripts/tree/master/Low%20Power%20Mode) contains the resouces to add a new app that toggles a macro in order to save battery life on your macbook
+[This folder](https://github.com/JFtechOfficial/mac-automation-scripts/tree/master/Low%20Power%20Mode) contains the resouces to add a new app that toggles a macro in order to save battery life on your MacBook
 
 ---
 
+## External Display Utilities 🖥
+[This folder](https://github.com/JFtechOfficial/mac-automation-scripts/tree/master/External%20Display) contains ALL the smart automation I use when connecting my MacBook to the [external display of my WFH setup](https://amzn.to/3rIp5AC)
+
+---
 ## Yeelight 💡
 [This folder](https://github.com/JFtechOfficial/mac-automation-scripts/tree/master/Yeelight) contains the scripts to add a new slider to your TouchBar to control the brightness of your Yeelight smart bulb 
 
