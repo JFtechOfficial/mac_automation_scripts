@@ -16,6 +16,7 @@ When disconnecting form external display quit the following menubar apps:
 * [Display Pilot](https://www.benq.com/en-us/monitor/software/display-pilot.html)
 
 ### Installation
+* Remove Monitor Control and Display Pilot from login items
 * Import the `Display Utilities.kmmacros` file into Keyboard Maestro
 * Edit the macro inserting [your mac user name](https://support.apple.com/guide/mac-help/if-you-forgot-your-user-or-account-name-mh35548/mac) in the field that requires it
 
