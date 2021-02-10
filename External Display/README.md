@@ -1,12 +1,12 @@
 ## Display Utilities
 ### What does it do
 When connecting to external display opens the following menubar apps:
-* [Monitor Control](https://github.com/MonitorControl/MonitorControl) to control external monitor brightness and volume from MacOS with keys or Touch Bar (in Extended Control Strip) 
+* [Monitor Control](https://github.com/MonitorControl/MonitorControl) to control external monitor brightness and volume from MacOS with keys or TouchBar (in Extended Control Strip) 
 * [Display Pilot](https://www.benq.com/en-us/monitor/software/display-pilot.html) to control external monitor sources, modes, etc. from MacOS (supported BenQ monitors only)
   1. Execute the app
   2. Close app window that annoyingly opens by default each time Display Pilot is executed
   
-When disconnecting form external display close the following menubar apps:
+When disconnecting form external display quit the following menubar apps:
 * [Monitor Control](https://github.com/MonitorControl/MonitorControl)
 * [Display Pilot](https://www.benq.com/en-us/monitor/software/display-pilot.html)
 
