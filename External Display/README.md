@@ -30,5 +30,5 @@ When the lid of your MacBook is closed, external monitor goes to sleep. To contr
 * [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
 ### Installation
-* Import the `No Clamshell Mode.kmmacros`, `Clamshell Mode: OFF.kmmacros` files into Keyboard Maestro
+* Import the `No Clamshell Mode.kmmacros` and `Clamshell Mode: OFF.kmmacros` files into Keyboard Maestro
 
